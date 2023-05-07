@@ -1,0 +1,36 @@
+[[pages]]
+path = "app.py"
+name = "Descripción del proyecto"
+icon = ":eight_spoked_asterisk:"
+
+[[pages]]
+path = "pages/pages.py"
+name = "Estructura de páginas"
+icon = ":eight_spoked_asterisk:"
+
+[[pages]]
+path = "pages/markdown.py"
+name = "Markdown"
+icon = ":eight_spoked_asterisk:"
+
+[[pages]]
+path = "pages/columns.py"
+name = "Columnas"
+icon = ":eight_spoked_asterisk:"
+
+[[pages]]
+path = "pages/inputs.py"
+name = "Inputs (Entradas)"
+icon = ":eight_spoked_asterisk:"
+
+[[pages]]
+path = "pages/styles.py"
+name = "Estilos y Temas"
+icon = ":eight_spoked_asterisk:"
+
+[[pages]]
+path = "pages/charts.py"
+name = "Gráficas"
+icon = ":eight_spoked_asterisk:"
+
+
