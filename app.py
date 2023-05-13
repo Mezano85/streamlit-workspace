@@ -40,6 +40,7 @@ st.write(
 )
 
 # Mostrar el codigo de la página
+st.write("---")
 st.code(Path("app.py").read_text(), language="python")
 
 
